@@ -1038,7 +1038,7 @@ void drawConnections(sf::RenderWindow& window, const std::vector<std::unique_ptr
 
 int main() {
     //..........Crear la ventana de SFML
-    sf::RenderWindow window(sf::VideoMode(1280, 720), "Editor de Escenas Profesional");
+    sf::RenderWindow window(sf::VideoMode(1280, 720), "FigEDIT @FECORO");
     window.setFramerateLimit(60);
 
     //..........Inicializar ImGui-SFML
